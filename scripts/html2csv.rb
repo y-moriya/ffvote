@@ -20,7 +20,8 @@ orig_series_to_s = {
     'ファイナルファンタジーXIII' => 'ff13',
     'ファイナルファンタジーXIV' => 'ff14',
     'ファイナルファンタジーXV' => 'ff15'
-}.default = 'ff99'
+}
+orig_series_to_s.default = 'ff99'
 
 def years_to_s(years_orig)
     return years_orig.scan(/\d+/).flatten[0]

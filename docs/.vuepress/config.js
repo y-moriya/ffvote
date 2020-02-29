@@ -1,4 +1,5 @@
 module.exports = {
+  title: 'FF大投票まとめ',
   themeConfig: {
     sidebar: [
       '/',

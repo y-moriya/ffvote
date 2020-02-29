@@ -1,4 +1,5 @@
 require 'csv'
+require 'uri'
 
 CSV_FILE ='./ranking.csv'
 CATEGORY_DIST_PATH = '../docs/cat/'
@@ -69,7 +70,9 @@ def getCategoryDataBySeries(category, series)
 end
 
 class ResultRow
-  attr_accessor :title, :series, :series_orig, :category, :rank
+  attr_accessor :title, :series, :series_orig, :category, :rank, :query, :query_music
+  GOOGLE_URL = 'https://www.google.co.jp/search?hl=jp&gl=JP&'
+  YOUTUBE_URL = 'https://www.youtube.com/results?'
 
   def initialize(t, s, so, c, r)
     @title = t
@@ -77,6 +80,9 @@ class ResultRow
     @series_orig = so
     @category = c
     @rank = r
+
+    @query = URI.encode_www_form(q: %Q(#{@title} #{@series_orig}))
+    @query_music = URI.encode_www_form(search_query: %Q(#{@title} #{@series_orig}))
   end
 
   def get_link
@@ -91,12 +97,15 @@ class ResultRow
   end
 
   def get_link_chara
+    GOOGLE_URL + "tbm=isch&" + @query
   end
 
   def get_link_monster
+    GOOGLE_URL + "tbm=isch&" + @query
   end
 
   def get_link_music
+    YOUTUBE_URL + @query_music
   end
 end
 
@@ -124,14 +133,14 @@ SERIES.each do |series|
         file.puts MD_TABLE_BAR2
   
         res.each_with_index do |r, i|
-          file.puts %Q(|#{i+1}|#{r.title}|#{r.series_orig}|#{r.rank}位|\n)
+          file.puts %Q(|#{i+1}|[#{r.title}](#{r.get_link})|#{r.series_orig}|#{r.rank}位|\n)
         end  
       else
         file.puts MD_TABLE_HEADER
         file.puts MD_TABLE_BAR
   
         res.each_with_index do |r, i|
-          file.puts %Q(|#{i+1}|#{r.title}|#{r.rank}位|\n)
+          file.puts %Q(|#{i+1}|[#{r.title}](#{r.get_link})|#{r.rank}位|\n)
         end  
       end
       file.puts "\n"

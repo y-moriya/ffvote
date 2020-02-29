@@ -4,6 +4,8 @@ CSV_FILE ='./ranking.csv'
 CATEGORY_DIST_PATH = '../docs/cat/'
 SERIES_DIST_PATH = '../docs/ser/'
 CSV_HEADER = 'category,rank,title,series,series_orig,years,years_orig,votes'
+MD_TABLE_HEADER = '||Name|総合順位|'
+MD_TABLE_BAR = '|-|-|-|'
 CATEGORY = ['series', 'chara', 'monster', 'music']
 SERIES = [
     'ff1',
@@ -98,8 +100,7 @@ end
 SERIES.each do |series|
   File.open(SERIES_DIST_PATH + series + '.md', 'w+:utf-8') {|file|
     
-    file.puts %Q(# #{to_series_jp[series]})
-    file.puts ""
+    file.puts %Q(# #{to_series_jp[series]}\n\n)
 
     CATEGORY.each do |category|
       next if category == 'series'
@@ -110,14 +111,15 @@ SERIES.each do |series|
         file.puts %Q(nothing.)
         next
       else
-        # file.puts %Q()
+        file.puts MD_TABLE_HEADER
+        file.puts MD_TABLE_BAR
       end
 
       res.each_with_index do |r, i|
-        file.puts %Q(|#{i+1}|#{r.title}|#{r.rank}位|)
+        file.puts %Q(|#{i+1}|#{r.title}|#{r.rank}位|\n)
       end
 
-      file.puts ""
+      file.puts "\n"
     end
   }
 end

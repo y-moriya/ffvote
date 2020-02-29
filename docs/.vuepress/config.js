@@ -2,35 +2,34 @@ module.exports = {
   themeConfig: {
     sidebar: [
       '/',
-      {
-        title: 'カテゴリ別ランキング',
-        path: '/cat/',
-        children: [
-          '/chara',
-          '/monster',
-          '/music',
-        ]
-      },
+      // {
+      //   title: 'カテゴリ別ランキング',
+      //   children: [
+      //     '/chara',
+      //     '/monster',
+      //     '/music',
+      //   ]
+      // },
       {
         title: 'シリーズ別ランキング',
-        path: '/ser/',
+        collaspable: false,
         children: [
-          '/ff1',
-          '/ff2',
-          '/ff3',
-          '/ff4',
-          '/ff5',
-          '/ff6',
-          '/ff7',
-          '/ff8',
-          '/ff9',
-          '/ff10',
-          '/ff11',
-          '/ff12',
-          '/ff13',
-          '/ff14',
-          '/ff15',
-          '/ff99'
+          ['/ser/ff1', 'ファイナルファンタジー'],
+          ['/ser/ff2', 'ファイナルファンタジーII'],
+          ['/ser/ff3', 'ファイナルファンタジーIII'],
+          ['/ser/ff4', 'ファイナルファンタジーIV'],
+          ['/ser/ff5', 'ファイナルファンタジーV'],
+          ['/ser/ff6', 'ファイナルファンタジーVI'],
+          ['/ser/ff7', 'ファイナルファンタジーVII'],
+          ['/ser/ff8', 'ファイナルファンタジーVIII'],
+          ['/ser/ff9', 'ファイナルファンタジーIX'],
+          ['/ser/ff10', 'ファイナルファンタジーX'],
+          ['/ser/ff11', 'ファイナルファンタジーXI'],
+          ['/ser/ff12', 'ファイナルファンタジーXII'],
+          ['/ser/ff13', 'ファイナルファンタジーXIII'],
+          ['/ser/ff14', 'ファイナルファンタジーXIV'],
+          ['/ser/ff15', 'ファイナルファンタジーXV'],
+          ['/ser/ff99', 'その他']
         ]
       }
     ]

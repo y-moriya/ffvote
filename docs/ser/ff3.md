@@ -17,7 +17,7 @@
 |2|[２ヘッドドラゴン](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%EF%BC%92%E3%83%98%E3%83%83%E3%83%89%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII)|90位|
 |3|[まどうしハイン](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%81%BE%E3%81%A9%E3%81%86%E3%81%97%E3%83%8F%E3%82%A4%E3%83%B3+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII)|117位|
 
-## 曲
+## 音楽
 ||Name|総合順位|
 |-|-|-|
 |1|[クリスタルタワー](https://www.youtube.com/results?search_query=%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII)|75位|

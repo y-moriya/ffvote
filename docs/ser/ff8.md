@@ -29,7 +29,7 @@
 |13|[コチョコボ](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%82%B3%E3%83%81%E3%83%A7%E3%82%B3%E3%83%9C+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVIII)|177位|
 |14|[ナムタル・ウトク](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%8A%E3%83%A0%E3%82%BF%E3%83%AB%E3%83%BB%E3%82%A6%E3%83%88%E3%82%AF+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVIII)|183位|
 
-## 曲
+## 音楽
 ||Name|総合順位|
 |-|-|-|
 |1|[Fisherman's Horizon](https://www.youtube.com/results?search_query=Fisherman%27s+Horizon+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVIII)|32位|

@@ -26,7 +26,7 @@
 |10|[ドラゴン](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV)|172位|
 |11|[チョコボ](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%81%E3%83%A7%E3%82%B3%E3%83%9C+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV)|174位|
 
-## 曲
+## 音楽
 ||Name|総合順位|
 |-|-|-|
 |1|[ゴルベーザ四天王とのバトル](https://www.youtube.com/results?search_query=%E3%82%B4%E3%83%AB%E3%83%99%E3%83%BC%E3%82%B6%E5%9B%9B%E5%A4%A9%E7%8E%8B%E3%81%A8%E3%81%AE%E3%83%90%E3%83%88%E3%83%AB+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV)|30位|

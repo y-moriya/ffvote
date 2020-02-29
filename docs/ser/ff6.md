@@ -28,7 +28,7 @@
 |12|[オーディン](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|167位|
 |13|[ユミール](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%A6%E3%83%9F%E3%83%BC%E3%83%AB+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|183位|
 
-## 曲
+## 音楽
 ||Name|総合順位|
 |-|-|-|
 |1|[アリア](https://www.youtube.com/results?search_query=%E3%82%A2%E3%83%AA%E3%82%A2+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|37位|

@@ -28,7 +28,7 @@
 |13|[極限生命体宝条NA](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E6%A5%B5%E9%99%90%E7%94%9F%E5%91%BD%E4%BD%93%E5%AE%9D%E6%9D%A1NA+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|196位|
 |14|[ガードスコーピオン](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%82%AC%E3%83%BC%E3%83%89%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%94%E3%82%AA%E3%83%B3+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|198位|
 
-## 曲
+## 音楽
 ||Name|総合順位|
 |-|-|-|
 |1|[F.F.VIIメインテーマ](https://www.youtube.com/results?search_query=F.F.VII%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|31位|

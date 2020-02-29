@@ -1,16 +1,11 @@
 module.exports = {
   title: 'FF大投票まとめ',
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png'}],
+  ],
   themeConfig: {
     sidebar: [
       '/',
-      // {
-      //   title: 'カテゴリ別ランキング',
-      //   children: [
-      //     '/chara',
-      //     '/monster',
-      //     '/music',
-      //   ]
-      // },
       {
         title: 'シリーズ別ランキング',
         collapsable: false,
@@ -31,6 +26,15 @@ module.exports = {
           ['/ser/ff14', 'ファイナルファンタジーXIV'],
           ['/ser/ff15', 'ファイナルファンタジーXV'],
           ['/ser/ff99', 'その他']
+        ]
+      },
+      {
+        title: 'カテゴリ別ランキング',
+        collapsable: false,
+        children: [
+          ['/cat/chara', 'キャラクター'],
+          ['/cat/monster', 'ボス・召喚獣'],
+          ['/cat/music', '音楽'],
         ]
       }
     ]

@@ -17,7 +17,7 @@
 |5|[フェニックス](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCV)|134位|
 |6|[クレイクロウ](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%A6+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCV)|179位|
 
-## 曲
+## 音楽
 ||Name|総合順位|
 |-|-|-|
 |1|[はるかなる故郷](https://www.youtube.com/results?search_query=%E3%81%AF%E3%82%8B%E3%81%8B%E3%81%AA%E3%82%8B%E6%95%85%E9%83%B7+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCV)|22位|

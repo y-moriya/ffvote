@@ -16,7 +16,7 @@
 |3|[キャプテン](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCII)|134位|
 |4|[ラミアクイーン](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%A9%E3%83%9F%E3%82%A2%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCII)|191位|
 
-## 曲
+## 音楽
 ||Name|総合順位|
 |-|-|-|
 |1|[反乱軍のテーマ](https://www.youtube.com/results?search_query=%E5%8F%8D%E4%B9%B1%E8%BB%8D%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCII)|28位|

@@ -4,6 +4,10 @@
 
 各ランキングのページではNAMEをクリックするとGoogleやYoutubeの検索結果が表示されます。
 
+カテゴリ別のランキングはNHKのサイトと中身は同じです。
+
+作品別はここでは扱っていません。
+
 サイトのHTMLから抽出した[CSVファイル](https://github.com/y-moriya/ffvote/blob/master/scripts/ranking.csv)を公開しているので（[Raw](https://raw.githubusercontent.com/y-moriya/ffvote/master/scripts/ranking.csv)からダウンロードできます）、使いたい方は好きにspreadsheetのピボットテーブルなどで加工してみてください。
 
 ## CSVファイルのヘッダについて

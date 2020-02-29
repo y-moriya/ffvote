@@ -1,6 +1,8 @@
 require 'csv'
 
 CSV_FILE ='./ranking.csv'
+CATEGORY_DIST_PATH = '../docs/cat/'
+SERIES_DIST_PATH = '../docs/ser/'
 CSV_HEADER = 'category,rank,title,series,series_orig,years,years_orig,votes'
 CATEGORY = ['series', 'chara', 'monster', 'music']
 SERIES = [
@@ -39,6 +41,12 @@ orig_series_to_s = {
     'ファイナルファンタジーXV' => 'ff15'
 }
 
+to_category_jp = {
+  'series' => '作品',
+  'chara' => 'キャラクター',
+  'monster' => 'ボス・召喚獣', 
+  'music' => '曲'
+}
 to_series_jp = orig_series_to_s.invert
 
 @csv = CSV.read(CSV_FILE, 'r:utf-8', headers: true)
@@ -87,7 +95,29 @@ class ResultRow
   end
 end
 
-res = getCategoryDataBySeries('music', 'ff1')
-res.each do |r|
-  puts r.title
+SERIES.each do |series|
+  File.open(SERIES_DIST_PATH + series + '.md', 'w+:utf-8') {|file|
+    
+    file.puts %Q(# #{to_series_jp[series]})
+    file.puts ""
+
+    CATEGORY.each do |category|
+      next if category == 'series'
+      file.puts %Q(## #{to_category_jp[category]})
+      res = getCategoryDataBySeries(category, series)
+
+      if res.length == 0
+        file.puts %Q(nothing.)
+        next
+      else
+        # file.puts %Q()
+      end
+
+      res.each_with_index do |r, i|
+        file.puts %Q(|#{i+1}|#{r.title}|#{r.rank}位|)
+      end
+
+      file.puts ""
+    end
+  }
 end

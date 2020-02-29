@@ -13,6 +13,7 @@ module.exports = {
       },
       {
         title: 'シリーズ別ランキング',
+        path: '/ser/',
         children: [
           '/ff1',
           '/ff2',

@@ -6,6 +6,8 @@ SERIES_DIST_PATH = '../docs/ser/'
 CSV_HEADER = 'category,rank,title,series,series_orig,years,years_orig,votes'
 MD_TABLE_HEADER = '||Name|総合順位|'
 MD_TABLE_BAR = '|-|-|-|'
+MD_TABLE_HEADER2 = '||Name|シリーズ名|総合順位|'
+MD_TABLE_BAR2 = '|-|-|-|-|'
 CATEGORY = ['series', 'chara', 'monster', 'music']
 SERIES = [
     'ff1',
@@ -58,7 +60,7 @@ def getCategoryDataBySeries(category, series)
   @csv.each do |line|
     if line['category'] == category
       if line['series'] == series
-        results.push(ResultRow.new(line['title'], series, category, line['rank']))
+        results.push(ResultRow.new(line['title'], series, line['series_orig'], category, line['rank']))
       end
     end
   end
@@ -67,11 +69,12 @@ def getCategoryDataBySeries(category, series)
 end
 
 class ResultRow
-  attr_accessor :title, :series, :category, :rank
+  attr_accessor :title, :series, :series_orig, :category, :rank
 
-  def initialize(t, s, c, r)
+  def initialize(t, s, so, c, r)
     @title = t
     @series = s
+    @series_orig = so
     @category = c
     @rank = r
   end
@@ -100,7 +103,11 @@ end
 SERIES.each do |series|
   File.open(SERIES_DIST_PATH + series + '.md', 'w+:utf-8') {|file|
     
-    file.puts %Q(# #{to_series_jp[series]}\n\n)
+    if series == 'ff99'
+      file.puts %Q(# その他\n\n)
+    else
+      file.puts %Q(# #{to_series_jp[series]}\n\n)
+    end
 
     CATEGORY.each do |category|
       next if category == 'series'
@@ -110,15 +117,23 @@ SERIES.each do |series|
       if res.length == 0
         file.puts %Q(nothing.)
         next
+      end
+
+      if series == 'ff99'
+        file.puts MD_TABLE_HEADER2
+        file.puts MD_TABLE_BAR2
+  
+        res.each_with_index do |r, i|
+          file.puts %Q(|#{i+1}|#{r.title}|#{r.series_orig}|#{r.rank}位|\n)
+        end  
       else
         file.puts MD_TABLE_HEADER
         file.puts MD_TABLE_BAR
+  
+        res.each_with_index do |r, i|
+          file.puts %Q(|#{i+1}|#{r.title}|#{r.rank}位|\n)
+        end  
       end
-
-      res.each_with_index do |r, i|
-        file.puts %Q(|#{i+1}|#{r.title}|#{r.rank}位|\n)
-      end
-
       file.puts "\n"
     end
   }

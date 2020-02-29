@@ -12,7 +12,7 @@ module.exports = {
       // },
       {
         title: 'シリーズ別ランキング',
-        collaspable: false,
+        collapsable: false,
         children: [
           ['/ser/ff1', 'ファイナルファンタジー'],
           ['/ser/ff2', 'ファイナルファンタジーII'],

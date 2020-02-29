@@ -1,8 +1,5 @@
 module.exports = {
   title: 'FF大投票まとめ',
-  head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png'}],
-  ],
   themeConfig: {
     sidebar: [
       '/',

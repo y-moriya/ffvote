@@ -57,7 +57,7 @@ File.open(CSV_FILE, 'w+:utf-8') {|file|
                 if !tmp_series_html.empty?
                     array = tmp_series_html.scan(/fixed">([^<]+)<span class="year">([^<]+)<\/span>/).flatten
                     series = array[0]
-                    years = array[1]
+                    years = array[1].to_s
                 end
             end
             file.puts %Q(#{category},#{rank},#{title},#{orig_series_to_s[series]},#{series},#{years_to_s(years)},#{years},#{votes})

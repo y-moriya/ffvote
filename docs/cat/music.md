@@ -2,6 +2,26 @@
 
 ||Name|シリーズ名|
 |-|-|-|
+|1|[ザナルカンドにて](https://www.youtube.com/results?search_query=%E3%82%B6%E3%83%8A%E3%83%AB%E3%82%AB%E3%83%B3%E3%83%89%E3%81%AB%E3%81%A6+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCX)|ファイナルファンタジーX|
+|2|[ビッグブリッヂの死闘](https://www.youtube.com/results?search_query=%E3%83%93%E3%83%83%E3%82%B0%E3%83%96%E3%83%AA%E3%83%83%E3%83%82%E3%81%AE%E6%AD%BB%E9%97%98+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCV)|ファイナルファンタジーV|
+|3|[Eyes On Me](https://www.youtube.com/results?search_query=Eyes+On+Me+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVIII)|ファイナルファンタジーVIII|
+|4|[仲間を求めて](https://www.youtube.com/results?search_query=%E4%BB%B2%E9%96%93%E3%82%92%E6%B1%82%E3%82%81%E3%81%A6+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|ファイナルファンタジーVI|
+|5|[閃光](https://www.youtube.com/results?search_query=%E9%96%83%E5%85%89+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIII)|ファイナルファンタジーXIII|
+|6|[片翼の天使](https://www.youtube.com/results?search_query=%E7%89%87%E7%BF%BC%E3%81%AE%E5%A4%A9%E4%BD%BF+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|ファイナルファンタジーVII|
+|7|[エアリスのテーマ](https://www.youtube.com/results?search_query=%E3%82%A8%E3%82%A2%E3%83%AA%E3%82%B9%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|ファイナルファンタジーVII|
+|8|[Melodies Of Life～Final Fantasy](https://www.youtube.com/results?search_query=Melodies+Of+Life%EF%BD%9EFinal+Fantasy+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX)|ファイナルファンタジーIX|
+|9|[メインテーマ 【合算】](https://www.youtube.com/results?search_query=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E+%E3%80%90%E5%90%88%E7%AE%97%E3%80%91+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC)|ファイナルファンタジー|
+|10|[更に闘う者達](https://www.youtube.com/results?search_query=%E6%9B%B4%E3%81%AB%E9%97%98%E3%81%86%E8%80%85%E9%81%94+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|ファイナルファンタジーVII|
+|11|[素敵だね](https://www.youtube.com/results?search_query=%E7%B4%A0%E6%95%B5%E3%81%A0%E3%81%AD+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCX)|ファイナルファンタジーX|
+|12|[妖星乱舞](https://www.youtube.com/results?search_query=%E5%A6%96%E6%98%9F%E4%B9%B1%E8%88%9E+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|ファイナルファンタジーVI|
+|13|[独りじゃない](https://www.youtube.com/results?search_query=%E7%8B%AC%E3%82%8A%E3%81%98%E3%82%83%E3%81%AA%E3%81%84+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX)|ファイナルファンタジーIX|
+|14|[いつか帰るところ](https://www.youtube.com/results?search_query=%E3%81%84%E3%81%A4%E3%81%8B%E5%B8%B0%E3%82%8B%E3%81%A8%E3%81%93%E3%82%8D+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX)|ファイナルファンタジーIX|
+|15|[いつか終わる夢](https://www.youtube.com/results?search_query=%E3%81%84%E3%81%A4%E3%81%8B%E7%B5%82%E3%82%8F%E3%82%8B%E5%A4%A2+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCX)|ファイナルファンタジーX|
+|16|[悠久の風](https://www.youtube.com/results?search_query=%E6%82%A0%E4%B9%85%E3%81%AE%E9%A2%A8+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII)|ファイナルファンタジーIII|
+|17|[決戦](https://www.youtube.com/results?search_query=%E6%B1%BA%E6%88%A6+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|ファイナルファンタジーVI|
+|18|[プレリュード 【合算】](https://www.youtube.com/results?search_query=%E3%83%97%E3%83%AC%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%89+%E3%80%90%E5%90%88%E7%AE%97%E3%80%91+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC)|ファイナルファンタジー|
+|19|[ティナのテーマ](https://www.youtube.com/results?search_query=%E3%83%86%E3%82%A3%E3%83%8A%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|ファイナルファンタジーVI|
+|20|[The Man with the Machine Gun](https://www.youtube.com/results?search_query=The+Man+with+the+Machine+Gun+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVIII)|ファイナルファンタジーVIII|
 |21|[サンレス水郷](https://www.youtube.com/results?search_query=%E3%82%B5%E3%83%B3%E3%83%AC%E3%82%B9%E6%B0%B4%E9%83%B7+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXIII)|ファイナルファンタジーXIII|
 |22|[はるかなる故郷](https://www.youtube.com/results?search_query=%E3%81%AF%E3%82%8B%E3%81%8B%E3%81%AA%E3%82%8B%E6%95%85%E9%83%B7+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCV)|ファイナルファンタジーV|
 |23|[Otherworld](https://www.youtube.com/results?search_query=Otherworld+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCX)|ファイナルファンタジーX|

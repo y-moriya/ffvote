@@ -8,7 +8,7 @@
 
 カテゴリ別のランキングはNHKのサイトと中身は同じです。
 
-作品別はここでは扱っていません。
+作品のランキングはここでは扱っていません。NHKのサイトで男女別の投票率なども見れるのでそちらがよいと思います。
 
 サイトのHTMLから抽出した[CSVファイル](https://github.com/y-moriya/ffvote/blob/master/scripts/ranking.csv)を公開しているので（[Raw](https://raw.githubusercontent.com/y-moriya/ffvote/master/scripts/ranking.csv)からダウンロードできます）、使いたい方は好きにspreadsheetのピボットテーブルなどで加工してみてください。
 

@@ -1,6 +1,11 @@
 module.exports = {
   title: 'FF大投票まとめ',
   description: '全ファイナルファンタジー大投票の結果をシリーズ別などに分けて集計したサイトです。',
+  locales: {
+    '/': {
+      lang: 'ja'
+    }
+  },
   themeConfig: {
     sidebar: [
       '/',

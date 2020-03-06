@@ -20,7 +20,7 @@
 |15|[ガウ](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%82%AC%E3%82%A6+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|131位|
 |16|[ゴゴ](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%82%B4%E3%82%B4+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|170位|
 
-## ボス・召喚獣
+## ボス＆召喚獣
 ||Name|総合順位|
 |-|-|-|
 |1|[ケフカ](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%82%B1%E3%83%95%E3%82%AB+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|2位|

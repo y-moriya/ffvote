@@ -1,5 +1,7 @@
 # FF大投票まとめ
 
+## 説明
+
 [全ファイナルファンタジー大投票](https://www.nhk.or.jp/anime/ff/) の投票結果をシリーズごとに集計したりしているサイトです。スマホからは、左上の≡をタップすると各ページへのリンクが表示されます。
 
 各ランキングのページではNAMEをクリックするとGoogleやYoutubeの検索結果が表示されます。
@@ -8,16 +10,14 @@
 
 カテゴリ別のランキングはNHKのサイトと中身は同じです。
 
-作品のランキングはここでは扱っていません。[NHKのサイト](https://www.nhk.or.jp/anime/ff/ranking/?cat=series)で男女別の投票率なども見れるのでそちらがよいと思います。
+作品のランキングは[NHKのサイト](https://www.nhk.or.jp/anime/ff/ranking/?cat=series)で男女別の投票率なども見れるのでそちらがよいと思います。
 
 サイトのHTMLから抽出した[CSVファイル](https://github.com/y-moriya/ffvote/blob/master/scripts/ranking.csv)を公開しているので（[Raw](https://raw.githubusercontent.com/y-moriya/ffvote/master/scripts/ranking.csv)からダウンロードできます）、使いたい方は好きにspreadsheetのピボットテーブルなどで加工してみてください。
 
-## CSVファイルのヘッダについて
-
-準備中
-
 ## 更新履歴
 
+- 2020/03/06
+  - 一応作品別の投票結果も載せてみました。
 - 2020/03/01
   - 最終投票結果を反映
 

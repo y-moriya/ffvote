@@ -10,7 +10,7 @@
 |5|[ルーネス](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%AB%E3%83%BC%E3%83%8D%E3%82%B9+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII)|194位|
 |6|[でぶチョコボ](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%81%A7%E3%81%B6%E3%83%81%E3%83%A7%E3%82%B3%E3%83%9C+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII)|198位|
 
-## ボス・召喚獣
+## ボス＆召喚獣
 ||Name|総合順位|
 |-|-|-|
 |1|[くらやみのくも](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%81%8F%E3%82%89%E3%82%84%E3%81%BF%E3%81%AE%E3%81%8F%E3%82%82+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII)|15位|

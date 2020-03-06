@@ -12,7 +12,7 @@
 |7|[ボコ](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%9C%E3%82%B3+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCV)|128位|
 |8|[エクスデス](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%87%E3%82%B9+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCV)|130位|
 
-## ボス・召喚獣
+## ボス＆召喚獣
 ||Name|総合順位|
 |-|-|-|
 |1|[オメガ](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%82%AA%E3%83%A1%E3%82%AC+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCV)|5位|

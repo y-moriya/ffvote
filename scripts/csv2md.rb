@@ -54,6 +54,8 @@ class Converter
   MD_TABLE_BAR2 = '|-|-|-|-|'
   MD_TABLE_HEADER3 = '||Name|シリーズ名|'
   MD_TABLE_BAR3 = '|-|-|-|'
+  MD_TABLE_HEADER4 = '||Name|'
+  MD_TABLE_BAR4 = '|-|-|'
   CATEGORY = ['series', 'chara', 'monster', 'music']
   SERIES = [
       'ff1',
@@ -97,7 +99,7 @@ class Converter
     @to_category_jp = {
       'series' => '作品',
       'chara' => 'キャラクター',
-      'monster' => 'ボス・召喚獣', 
+      'monster' => 'ボス＆召喚獣', 
       'music' => '音楽'
     }
     @to_series_jp = @orig_series_to_s.invert
@@ -172,24 +174,41 @@ class Converter
   def to_file_by_categories
     CATEGORY.each do |category|
       File.open(CATEGORY_DIST_PATH + category + '.md', 'w+:utf-8') {|file|
-        break if category == 'series'
         file.puts %Q(# #{@to_category_jp[category]}\n\n)
-        file.puts MD_TABLE_HEADER3
-        file.puts MD_TABLE_BAR3
-        
-        i = 0
-        res = get_series_result_by_categories(category)
-        
-        if res.length == 0
-          next
-        end
-        
-        res.each do |r|
-          # file.puts %Q(|#{i += 1}|[#{r.title}](#{r.get_link})|#{r.series_orig}|\n)
-          file.puts %Q(|#{r.rank}|[#{r.title}](#{r.get_link})|#{r.series_orig}|\n)
-        end
+        if category == 'series'
 
-        file.puts ""
+          file.puts MD_TABLE_HEADER4
+          file.puts MD_TABLE_BAR4
+          
+          i = 0
+          res = get_series_result_by_categories(category)
+          
+          if res.length == 0
+            next
+          end
+          
+          res.each do |r|
+            file.puts %Q(|#{r.rank}|#{r.title}|\n)
+          end
+
+          file.puts ""
+        else
+          file.puts MD_TABLE_HEADER3
+          file.puts MD_TABLE_BAR3
+          
+          i = 0
+          res = get_series_result_by_categories(category)
+          
+          if res.length == 0
+            next
+          end
+          
+          res.each do |r|
+            file.puts %Q(|#{r.rank}|[#{r.title}](#{r.get_link})|#{r.series_orig}|\n)
+          end
+
+          file.puts ""
+        end
       }
     end
   end

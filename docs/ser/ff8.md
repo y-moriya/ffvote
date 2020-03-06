@@ -16,7 +16,7 @@
 |11|[コヨコヨ](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%82%B3%E3%83%A8%E3%82%B3%E3%83%A8+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVIII)|167位|
 |12|[イデア](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%82%A4%E3%83%87%E3%82%A2+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVIII)|176位|
 
-## ボス・召喚獣
+## ボス＆召喚獣
 ||Name|総合順位|
 |-|-|-|
 |1|[ディアボロス](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%87%E3%82%A3%E3%82%A2%E3%83%9C%E3%83%AD%E3%82%B9+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVIII)|22位|

@@ -35,8 +35,9 @@ module.exports = {
         title: 'カテゴリ別ランキング',
         collapsable: false,
         children: [
+          ['/cat/series', '作品'],
           ['/cat/chara', 'キャラクター'],
-          ['/cat/monster', 'ボス・召喚獣'],
+          ['/cat/monster', 'ボス＆召喚獣'],
           ['/cat/music', '音楽'],
         ]
       }

@@ -20,7 +20,7 @@
 |15|[イリーナ](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%8A+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|181位|
 |16|[バレット](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%90%E3%83%AC%E3%83%83%E3%83%88+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|198位|
 
-## ボス・召喚獣
+## ボス＆召喚獣
 ||Name|総合順位|
 |-|-|-|
 |1|[ナイツオブラウンド](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%8A%E3%82%A4%E3%83%84%E3%82%AA%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|1位|

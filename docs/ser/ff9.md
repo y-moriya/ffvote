@@ -15,7 +15,7 @@
 |10|[ブランク](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%AF+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX)|121位|
 |11|[スティルツキン](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%82%B9%E3%83%86%E3%82%A3%E3%83%AB%E3%83%84%E3%82%AD%E3%83%B3+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX)|155位|
 
-## ボス・召喚獣
+## ボス＆召喚獣
 ||Name|総合順位|
 |-|-|-|
 |1|[トランス・クジャ](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%AF%E3%82%B8%E3%83%A3+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX)|23位|

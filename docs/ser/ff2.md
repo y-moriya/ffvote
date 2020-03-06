@@ -9,7 +9,7 @@
 |4|[ヨーゼフ](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%A8%E3%83%BC%E3%82%BC%E3%83%95+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCII)|145位|
 |5|[レオンハルト](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%AC%E3%82%AA%E3%83%B3%E3%83%8F%E3%83%AB%E3%83%88+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCII)|179位|
 
-## ボス・召喚獣
+## ボス＆召喚獣
 ||Name|総合順位|
 |-|-|-|
 |1|[こうてい（２回目）](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%81%93%E3%81%86%E3%81%A6%E3%81%84%EF%BC%88%EF%BC%92%E5%9B%9E%E7%9B%AE%EF%BC%89+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCII)|56位|

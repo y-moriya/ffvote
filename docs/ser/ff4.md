@@ -16,7 +16,7 @@
 |11|[テラ](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%86%E3%83%A9+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV)|183位|
 |12|[ギルバート](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%82%AE%E3%83%AB%E3%83%90%E3%83%BC%E3%83%88+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV)|193位|
 
-## ボス・召喚獣
+## ボス＆召喚獣
 ||Name|総合順位|
 |-|-|-|
 |1|[ルビカンテ](https://www.google.co.jp/search?hl=jp&gl=JP&tbm=isch&q=%E3%83%AB%E3%83%93%E3%82%AB%E3%83%B3%E3%83%86+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV)|13位|

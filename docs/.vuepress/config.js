@@ -7,6 +7,10 @@ module.exports = {
     }
   },
   themeConfig: {
+    algolia: {
+      apiKey: '68332b9f64bfa13b13224f23ede03def',
+      indexName: 'ffvote'
+    },
     sidebar: [
       '/',
       {

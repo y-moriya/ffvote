@@ -7,10 +7,15 @@ module.exports = {
     }
   },
   themeConfig: {
+    searchMaxSuggestions: 10,
     algolia: {
       appId: "Z0UDIMHYJC",
       apiKey: '68332b9f64bfa13b13224f23ede03def',
-      indexName: 'ffvote'
+      indexName: 'ffvote',
+      algoliaOptions: {
+        hitsPerPage: 10,
+        facetFilters: ''
+      }
     },
     sidebar: [
       '/',

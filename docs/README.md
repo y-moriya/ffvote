@@ -14,8 +14,17 @@
 
 サイトのHTMLから抽出した[CSVファイル](https://github.com/y-moriya/ffvote/blob/master/scripts/ranking.csv)を公開しているので（[Raw](https://raw.githubusercontent.com/y-moriya/ffvote/master/scripts/ranking.csv)からダウンロードできます）、使いたい方は好きにspreadsheetのピボットテーブルなどで加工してみてください。
 
+## 関連リンク
+
+音楽部門の Youtube プレイリスト
+
+- [【1位→100位】全ファイナルファンタジー大投票音楽部門 TOP100](https://www.youtube.com/playlist?list=PLrcKLEcMQ1a2nTLgaWN9zeiWhK6jEOPf_)
+- [【100位→1位】全ファイナルファンタジー大投票音楽部門 TOP100](https://www.youtube.com/playlist?list=PLrcKLEcMQ1a13QSDw46h0tXgHfcK1hB5A)
+
 ## 更新履歴
 
+- 2020/03/14
+  - 関連リンクを追加しました。
 - 2020/03/11
   - カテゴリ別->作品の順位が一部おかしかったのを修正しました。
 - 2020/03/07

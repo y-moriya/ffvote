@@ -45,9 +45,9 @@
 ## 音楽
 ||Name|総合順位|
 |-|-|-|
-|1|[Eyes On Me](https://www.youtube.com/results?search_query=Eyes+On+Me+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVIII)|3位|
-|2|[The Man with the Machine Gun](https://www.youtube.com/results?search_query=The+Man+with+the+Machine+Gun+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVIII)|20位|
-|3|[Fisherman's Horizon](https://www.youtube.com/results?search_query=Fisherman%27s+Horizon+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVIII)|32位|
-|4|[The Extreme](https://www.youtube.com/results?search_query=The+Extreme+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVIII)|59位|
-|5|[Force Your Way](https://www.youtube.com/results?search_query=Force+Your+Way+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVIII)|65位|
+|1|[Eyes On Me](https://www.youtube.com/watch?v=OsKEMiq95R8)|3位|
+|2|[The Man with the Machine Gun](https://www.youtube.com/watch?v=LeScjOTYl7g)|20位|
+|3|[Fisherman's Horizon](https://www.youtube.com/watch?v=iejFpMuLxqk)|32位|
+|4|[The Extreme](https://www.youtube.com/watch?v=4DqPVakFkOw)|59位|
+|5|[Force Your Way](https://www.youtube.com/watch?v=hSm6_VZuyok)|65位|
 

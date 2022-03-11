@@ -32,13 +32,13 @@
 ## 音楽
 ||Name|総合順位|
 |-|-|-|
-|1|[Melodies Of Life～Final Fantasy](https://www.youtube.com/results?search_query=Melodies+Of+Life%EF%BD%9EFinal+Fantasy+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX)|8位|
-|2|[独りじゃない](https://www.youtube.com/results?search_query=%E7%8B%AC%E3%82%8A%E3%81%98%E3%82%83%E3%81%AA%E3%81%84+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX)|13位|
-|3|[いつか帰るところ](https://www.youtube.com/results?search_query=%E3%81%84%E3%81%A4%E3%81%8B%E5%B8%B0%E3%82%8B%E3%81%A8%E3%81%93%E3%82%8D+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX)|14位|
-|4|[ローズ･オブ･メイ](https://www.youtube.com/results?search_query=%E3%83%AD%E3%83%BC%E3%82%BA%EF%BD%A5%E3%82%AA%E3%83%96%EF%BD%A5%E3%83%A1%E3%82%A4+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX)|33位|
-|5|[あの丘を越えて](https://www.youtube.com/results?search_query=%E3%81%82%E3%81%AE%E4%B8%98%E3%82%92%E8%B6%8A%E3%81%88%E3%81%A6+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX)|56位|
-|6|[守るべきもの](https://www.youtube.com/results?search_query=%E5%AE%88%E3%82%8B%E3%81%B9%E3%81%8D%E3%82%82%E3%81%AE+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX)|71位|
-|7|[この刃に懸けて](https://www.youtube.com/results?search_query=%E3%81%93%E3%81%AE%E5%88%83%E3%81%AB%E6%87%B8%E3%81%91%E3%81%A6+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX)|84位|
-|8|[Vamo'alla flamenco](https://www.youtube.com/results?search_query=Vamo%27alla+flamenco+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX)|89位|
-|9|[破滅への使者](https://www.youtube.com/results?search_query=%E7%A0%B4%E6%BB%85%E3%81%B8%E3%81%AE%E4%BD%BF%E8%80%85+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX)|99位|
+|1|[Melodies Of Life～Final Fantasy](https://www.youtube.com/watch?v=Y8vCIGf8EgQ)|8位|
+|2|[独りじゃない](https://www.youtube.com/watch?v=1ob36mdEV_w)|13位|
+|3|[いつか帰るところ](https://www.youtube.com/watch?v=NdQuypPplKY)|14位|
+|4|[ローズ･オブ･メイ](https://www.youtube.com/watch?v=djz5LAkV1so)|33位|
+|5|[あの丘を越えて](https://www.youtube.com/watch?v=PAmV4MbSkHg)|56位|
+|6|[守るべきもの](https://www.youtube.com/watch?v=x1HF7QUs3ok)|71位|
+|7|[この刃に懸けて](https://www.youtube.com/watch?v=QqNeaNWbZVw)|84位|
+|8|[Vamo'alla flamenco](https://www.youtube.com/watch?v=gLEZuDkEuDk)|89位|
+|9|[破滅への使者](https://www.youtube.com/watch?v=CePstt0-0PY)|99位|
 

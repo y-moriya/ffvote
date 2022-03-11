@@ -44,12 +44,12 @@
 ## 音楽
 ||Name|総合順位|
 |-|-|-|
-|1|[仲間を求めて](https://www.youtube.com/results?search_query=%E4%BB%B2%E9%96%93%E3%82%92%E6%B1%82%E3%82%81%E3%81%A6+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|4位|
-|2|[妖星乱舞](https://www.youtube.com/results?search_query=%E5%A6%96%E6%98%9F%E4%B9%B1%E8%88%9E+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|12位|
-|3|[決戦](https://www.youtube.com/results?search_query=%E6%B1%BA%E6%88%A6+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|17位|
-|4|[ティナのテーマ](https://www.youtube.com/results?search_query=%E3%83%86%E3%82%A3%E3%83%8A%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|19位|
-|5|[アリア](https://www.youtube.com/results?search_query=%E3%82%A2%E3%83%AA%E3%82%A2+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|37位|
-|6|[死闘](https://www.youtube.com/results?search_query=%E6%AD%BB%E9%97%98+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|45位|
-|7|[蘇る緑](https://www.youtube.com/results?search_query=%E8%98%87%E3%82%8B%E7%B7%91+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|62位|
-|8|[セリスのテーマ](https://www.youtube.com/results?search_query=%E3%82%BB%E3%83%AA%E3%82%B9%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI)|66位|
+|1|[仲間を求めて](https://www.youtube.com/watch?v=4dpqwKGwCwE)|4位|
+|2|[妖星乱舞](https://www.youtube.com/watch?v=HnbFPYUGyMg)|12位|
+|3|[決戦](https://www.youtube.com/watch?v=WmBPTpvYyIY)|17位|
+|4|[ティナのテーマ](https://www.youtube.com/watch?v=SrDiiVn1VCk)|19位|
+|5|[アリア](https://www.youtube.com/watch?v=S9M_3nNUufU)|37位|
+|6|[死闘](https://www.youtube.com/watch?v=WTyCvbfUeoM)|45位|
+|7|[蘇る緑](https://www.youtube.com/watch?v=EoHsNo-ns0M)|62位|
+|8|[セリスのテーマ](https://www.youtube.com/watch?v=U32g2jp273o)|66位|
 

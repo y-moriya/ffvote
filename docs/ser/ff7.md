@@ -45,14 +45,14 @@
 ## 音楽
 ||Name|総合順位|
 |-|-|-|
-|1|[片翼の天使](https://www.youtube.com/results?search_query=%E7%89%87%E7%BF%BC%E3%81%AE%E5%A4%A9%E4%BD%BF+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|6位|
-|2|[エアリスのテーマ](https://www.youtube.com/results?search_query=%E3%82%A8%E3%82%A2%E3%83%AA%E3%82%B9%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|7位|
-|3|[更に闘う者達](https://www.youtube.com/results?search_query=%E6%9B%B4%E3%81%AB%E9%97%98%E3%81%86%E8%80%85%E9%81%94+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|10位|
-|4|[F.F.VIIメインテーマ](https://www.youtube.com/results?search_query=F.F.VII%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|31位|
-|5|[オープニング～爆破ミッション](https://www.youtube.com/results?search_query=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0%EF%BD%9E%E7%88%86%E7%A0%B4%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|34位|
-|6|[闘う者達](https://www.youtube.com/results?search_query=%E9%97%98%E3%81%86%E8%80%85%E9%81%94+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|36位|
-|7|[J-E-N-O-V-A](https://www.youtube.com/results?search_query=J-E-N-O-V-A+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|39位|
-|8|[星降る峡谷](https://www.youtube.com/results?search_query=%E6%98%9F%E9%99%8D%E3%82%8B%E5%B3%A1%E8%B0%B7+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|64位|
-|9|[ティファのテーマ](https://www.youtube.com/results?search_query=%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|88位|
-|10|[ゴールドソーサー](https://www.youtube.com/results?search_query=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%BC+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII)|93位|
+|1|[片翼の天使](https://www.youtube.com/watch?v=pzQE_7mn8ts)|6位|
+|2|[エアリスのテーマ](https://www.youtube.com/watch?v=n0H6kTppjP8)|7位|
+|3|[更に闘う者達](https://www.youtube.com/watch?v=ZwcvoY4ehOI)|10位|
+|4|[F.F.VIIメインテーマ](https://www.youtube.com/watch?v=6uq5AbZXnaQ)|31位|
+|5|[オープニング～爆破ミッション](https://www.youtube.com/watch?v=RiTt7TN1Dls)|34位|
+|6|[闘う者達](https://www.youtube.com/watch?v=nyVBrqCyrPE)|36位|
+|7|[J-E-N-O-V-A](https://www.youtube.com/watch?v=G8eCJCcBelo)|39位|
+|8|[星降る峡谷](https://www.youtube.com/watch?v=3RUtPuO8alo)|64位|
+|9|[ティファのテーマ](https://www.youtube.com/watch?v=VqvVUsvTZBY)|88位|
+|10|[ゴールドソーサー](https://www.youtube.com/watch?v=dMp-KVrNiMg)|93位|
 

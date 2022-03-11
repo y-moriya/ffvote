@@ -20,6 +20,6 @@
 ## 音楽
 ||Name|総合順位|
 |-|-|-|
-|1|[反乱軍のテーマ](https://www.youtube.com/results?search_query=%E5%8F%8D%E4%B9%B1%E8%BB%8D%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCII)|28位|
-|2|[チョコボ 【合算】](https://www.youtube.com/results?search_query=%E3%83%81%E3%83%A7%E3%82%B3%E3%83%9C+%E3%80%90%E5%90%88%E7%AE%97%E3%80%91+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCII)|29位|
+|1|[反乱軍のテーマ](https://www.youtube.com/watch?v=UksOPciWSXE)|28位|
+|2|[チョコボ 【合算】](https://www.youtube.com/watch?v=pDQqwO9AovQ)|29位|
 

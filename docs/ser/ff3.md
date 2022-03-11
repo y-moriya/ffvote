@@ -23,9 +23,9 @@
 ## 音楽
 ||Name|総合順位|
 |-|-|-|
-|1|[悠久の風](https://www.youtube.com/results?search_query=%E6%82%A0%E4%B9%85%E3%81%AE%E9%A2%A8+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII)|16位|
-|2|[クリスタルタワー](https://www.youtube.com/results?search_query=%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%BF%E3%83%AF%E3%83%BC+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII)|75位|
-|3|[果てしなき大海原](https://www.youtube.com/results?search_query=%E6%9E%9C%E3%81%A6%E3%81%97%E3%81%AA%E3%81%8D%E5%A4%A7%E6%B5%B7%E5%8E%9F+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII)|83位|
-|4|[風の追憶～悠久の風伝説～](https://www.youtube.com/results?search_query=%E9%A2%A8%E3%81%AE%E8%BF%BD%E6%86%B6%EF%BD%9E%E6%82%A0%E4%B9%85%E3%81%AE%E9%A2%A8%E4%BC%9D%E8%AA%AC%EF%BD%9E+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII)|90位|
-|5|[バトル２](https://www.youtube.com/results?search_query=%E3%83%90%E3%83%88%E3%83%AB%EF%BC%92+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIII)|95位|
+|1|[悠久の風](https://www.youtube.com/watch?v=XoiaKyMwrS0)|16位|
+|2|[クリスタルタワー](https://www.youtube.com/watch?v=_vaAXTS7dAw)|75位|
+|3|[果てしなき大海原](https://www.youtube.com/watch?v=i7pyHtguK_A)|83位|
+|4|[風の追憶～悠久の風伝説～](https://www.youtube.com/watch?v=cNxwheumkYE)|90位|
+|5|[バトル２](https://www.youtube.com/watch?v=Hwo0vAOAJp0)|95位|
 

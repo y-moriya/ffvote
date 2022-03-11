@@ -37,11 +37,11 @@
 ## 音楽
 ||Name|総合順位|
 |-|-|-|
-|1|[ゴルベーザ四天王とのバトル](https://www.youtube.com/results?search_query=%E3%82%B4%E3%83%AB%E3%83%99%E3%83%BC%E3%82%B6%E5%9B%9B%E5%A4%A9%E7%8E%8B%E3%81%A8%E3%81%AE%E3%83%90%E3%83%88%E3%83%AB+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV)|30位|
-|2|[赤い翼](https://www.youtube.com/results?search_query=%E8%B5%A4%E3%81%84%E7%BF%BC+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV)|41位|
-|3|[バトル２](https://www.youtube.com/results?search_query=%E3%83%90%E3%83%88%E3%83%AB%EF%BC%92+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV)|44位|
-|4|[ファイナルファンタジーIVメインテーマ](https://www.youtube.com/results?search_query=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV)|53位|
-|5|[愛のテーマ](https://www.youtube.com/results?search_query=%E6%84%9B%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV)|53位|
-|6|[最後の闘い](https://www.youtube.com/results?search_query=%E6%9C%80%E5%BE%8C%E3%81%AE%E9%97%98%E3%81%84+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV)|63位|
-|7|[バトル１](https://www.youtube.com/results?search_query=%E3%83%90%E3%83%88%E3%83%AB%EF%BC%91+%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIV)|86位|
+|1|[ゴルベーザ四天王とのバトル](https://www.youtube.com/watch?v=3XSGMCDmo64)|30位|
+|2|[赤い翼](https://www.youtube.com/watch?v=xjrmrYv1q_g)|41位|
+|3|[バトル２](https://www.youtube.com/watch?v=zTqMgJJsFFY)|44位|
+|4|[ファイナルファンタジーIVメインテーマ](https://www.youtube.com/watch?v=ajP0SMURixM)|53位|
+|5|[愛のテーマ](https://www.youtube.com/watch?v=ajP0SMURixM)|53位|
+|6|[最後の闘い](https://www.youtube.com/watch?v=0Ong5k7NAbQ)|63位|
+|7|[バトル１](https://www.youtube.com/watch?v=VizkMEv6vfA)|86位|
 

@@ -88,7 +88,7 @@
 |84|[この刃に懸けて](https://www.youtube.com/watch?v=QqNeaNWbZVw)|ファイナルファンタジーIX|
 |85|[色のない世界](https://www.youtube.com/watch?v=FFQRJHh3VNc)|ファイナルファンタジーXIII|
 |86|[バトル１](https://www.youtube.com/watch?v=VizkMEv6vfA)|ファイナルファンタジーIV|
-|87|[君がいるから（Long Version）](https://www.youtube.com/watch?v=3n_dq_YDCo0)|ファイナルファンタジーXIII|
+|87|[君がいるから（Long Version）](https://www.youtube.com/watch?v=jQKzr6OP45c)|ファイナルファンタジーXIII|
 |88|[ティファのテーマ](https://www.youtube.com/watch?v=VqvVUsvTZBY)|ファイナルファンタジーVII|
 |89|[Vamo'alla flamenco](https://www.youtube.com/watch?v=gLEZuDkEuDk)|ファイナルファンタジーIX|
 |90|[風の追憶～悠久の風伝説～](https://www.youtube.com/watch?v=cNxwheumkYE)|ファイナルファンタジーIII|

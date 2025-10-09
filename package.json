@@ -4,7 +4,6 @@
     "docs:build": "vitepress build docs"
   },
   "dependencies": {
-    "@vue/composition-api": "^1.6.2",
-    "vitepress": "^1.0.0-alpha.1"
+    "vitepress": "1.6.4"
   }
 }

@@ -1,6 +1,6 @@
-import { defineConfig } from 'vitepress'
+import type { UserConfig } from 'vitepress'
 
-export default defineConfig({
+export default ({
   title: 'FF大投票まとめ',
   description: '全ファイナルファンタジー大投票の結果をシリーズ別などに分けて集計したサイトです。',
   lang: 'ja',
@@ -38,4 +38,4 @@ export default defineConfig({
       }
     ]
   }
-})
+}) as UserConfig
